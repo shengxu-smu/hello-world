@@ -1,2 +1,2 @@
 Hello, the world!
-Greeting from Sheng Xu @ SMU Math.
+- Greeting from Sheng Xu @ SMU Math.
